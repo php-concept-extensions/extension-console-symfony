@@ -11,8 +11,8 @@
     "require": {
         "php": "^8.4",
         "league/container": "^5.1",
-        "php-concept/extension-event": "^1.0",
-        "php-concept/extension-support": "^1.0",
+        "php-concept/extension-event": "^3.0",
+        "php-concept/extension-support": "^3.0",
         "psr/event-dispatcher": "^1.0",
         "psr/log": "^1|^2|^3",
         "symfony/console": "^7.2|^8.0",
